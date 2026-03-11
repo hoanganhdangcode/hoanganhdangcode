@@ -16,7 +16,7 @@ Tôi là một **Junior Android Developer** với hơn 1 năm kinh nghiệm th�
 
 ### 💻 Kỹ năng Kỹ thuật
 
-* **Mobile Development:** Android Native (Java, Kotlin), .NET MAUI.
+* **Mobile Development:** Android Native (Java, Kotlin).
 * **Backend & API:** C#, RESTful APIs, Golang (Fiber).
 * **Architecture & Core:** MVVM, Clean Architecture, Real-time video processing (Camera2, OpenGL, FFmpeg), Networking (RTMP, TCP).
 * **Database & DevOps:** SQLite, Room, Firebase, Redis, Docker, CI/CD (GitHub Actions).
