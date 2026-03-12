@@ -1,98 +1,36 @@
-# 👋 Hi there, I'm **Hoàng Anh** (@hoanganhdangcode)
+# 👋 Hi, I'm Hoàng Anh
 
-Android Developer với hơn **1 năm kinh nghiệm phát triển ứng dụng di động và tích hợp backend system**.
-Tôi tập trung vào **Clean Architecture, CI/CD automation và tối ưu hóa hệ thống**.
+Junior **Android Developer** focused on **Clean Architecture, CI/CD, and backend integration**.
 
----
-
-## 📫 Contact
-
-**Email:** [ngohoanganh14062002@gmail.com](mailto:ngohoanganh14062002@gmail.com) | **Phone / Zalo / Viber / Telegram:** [0396320369](tel:+84396320369)
-
----
-
-## 🎓 Education
-
-**Academy of Cryptography Techniques**
-*Kỹ sư Công nghệ Thông tin – Chuyên ngành Phần mềm Di động*
-2020 – 2025
-
----
-
-## 💻 Technical Skills
-
-### Mobile Development
-
-* Android Native (**Java**, **Kotlin**)
-
-### Backend & API
-
-* **C#**, RESTful APIs
-* **Golang (Fiber)**
-
-### Architecture & Core
-
-* **MVVM**
-* **Clean Architecture**
-* Real-time video processing (**Camera2**, **OpenGL**, **FFmpeg**)
-* Networking (**RTMP**, **TCP**)
-
-### Database & DevOps
-
-* **SQL**
-* **Room**
-* **Firebase**
-* **Redis**
-* **Docker**
-* **CI/CD (GitHub Actions)**
+📧 Email: [ngohoanganh14062002@gmail.com](mailto:ngohoanganh14062002@gmail.com)
+📱 Phone: [+84396320369](tel:+84396320369)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1️⃣ Budget Checker
-
-Personal Expense Management System
-
-🔗 Repository:
+**Budget Checker**
+Android expense manager built with **Kotlin + Clean Architecture + CI/CD**
 https://github.com/hoanganhdangcode/budgetchecker
 
-**Mobile App**
-
-* Developed with **Kotlin**
-* Implemented **Clean Architecture + MVVM**
-* Local storage using **Room Database**
-
-**Backend & DevOps**
-
-* RESTful API packaged with **Docker**
-* Full **CI/CD pipeline using GitHub Actions**
-* Automated build & test workflow
+**Social Media Android App**
+Android app (**Java + MVVM**) with **Golang Fiber microservice backend**
+Backend: https://github.com/hoanganhdangcode/Social-Backend
+Mobile: https://github.com/hoanganhdangcode/musicappandroidnaive
+Simple OTP sending service: https://github.com/hoanganhdangcode/smsotpsender
 
 ---
 
-### 2️⃣ Social Media Android App
+## 💻 Tech
 
-Android social media application using **Java + MVVM**
-
-**Backend Architecture**
-
-* **Golang Fiber**
-* **GORM**
-* **SQL**
-* **Firebase (NoSQL)**
-* **Redis**
-* **Cloudinary**
-
-Source code:
-
-* Backend:
-  https://github.com/hoanganhdangcode/Social-Backend
-
-* Mobile App:
-  https://github.com/hoanganhdangcode/musicappandroidnaive
-
-* SMS OTP Sender:
-  https://github.com/hoanganhdangcode/smsotpsender
+**Mobile:** Kotlin, Java
+**Backend:** C#, Golang (Fiber)
+**Architecture:** MVVM, Clean Architecture
+**Database:** SQL, Room, Firebase, Redis
+**DevOps:** Docker, CI/CD (GitHub Actions)
 
 ---
+
+🎓 **Academy of Cryptography Techniques**
+Information Technology Engineering (Mobile Software)
+2020 – 2025
