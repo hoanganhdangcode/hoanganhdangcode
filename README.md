@@ -1,48 +1,98 @@
-# Hi there 👋, I'm Ngô Hoàng Anh (@hoanganhdangcode)
+# 👋 Hi there, I'm **Hoàng Anh** (@hoanganhdangcode)
 
-Tôi là một **Junior Android Developer** với hơn 1 năm kinh nghiệm thực tế trong việc phát triển ứng dụng di động và tích hợp hệ thống backend. Trọng tâm phát triển hiện tại của tôi là nắm vững Clean Architecture, tự động hóa luồng làm việc (CI/CD) và tối ưu hóa hệ thống.
-
-📫 **Liên hệ:** ngohoanganh14062002@gmail.com | **Phone/Zalo/Viber/Tele:** 0396320369
----
-
-### 🎓 Học vấn
-* **Academy of Cryptography Techniques**
-  * Kĩ sư Công nghệ Thông tin (Chuyên ngành Phần mềm Di động) | *2020 - 2025*
----
-
-### 💻 Kỹ năng Kỹ thuật
-
-* **Mobile Development:** Android Native (Java, Kotlin).
-* **Backend & API:** C#, RESTful APIs, Golang (Fiber).
-* **Architecture & Core:** MVVM, Clean Architecture, Real-time video processing (Camera2, OpenGL, FFmpeg), Networking (RTMP, TCP).
-* **Database & DevOps:** SQL, Room, Firebase, Redis, Docker, CI/CD (GitHub Actions).
+Android Developer với hơn **1 năm kinh nghiệm phát triển ứng dụng di động và tích hợp backend system**.
+Tôi tập trung vào **Clean Architecture, CI/CD automation và tối ưu hóa hệ thống**.
 
 ---
 
-### 💼 Kinh nghiệm Làm việc
+## 📫 Contact
 
-**Mobile Developer | VCS Viet Nam Technology (Hanoi)**
-*Aug 2025 - Mar 2026*
-* Phát triển hệ thống ứng dụng di động cross-platform sử dụng .NET MAUI cho các giải pháp ERP tài chính.
-* Xử lý cấu hình release, chuẩn bị build signing và tài liệu để deploy ứng dụng lên Google Play.
-
-
-**Android Developer | HMS Solutions and Technology Development (Hanoi)**
-*Jan 2025 - Jul 2025*
-* Phát triển ứng dụng Android native trên nền tảng phần cứng nhúng (Android 12) cho hệ thống camera hành trình ô tô.
-* Xây dựng và tối ưu hóa luồng xử lý video real-time bằng Camera2, OpenGL, FFmpeg và MediaCodec, đạt mức xử lý ổn định 1080p tại 45 FPS.
-* Triển khai giao tiếp TCP và RTMP streaming.
+**Email:** [ngohoanganh14062002@gmail.com](mailto:ngohoanganh14062002@gmail.com) | **Phone / Zalo / Viber / Telegram:** [0396320369](tel:+84396320369)
 
 ---
 
-### 🚀 Dự án Thực tế & Cá nhân
-**1. [Budget Checker](https://github.com/hoanganhdangcode/budgetchecker)**
-*Hệ thống quản lý chi tiêu cá nhân (Monorepo)*
-* **Mobile App:** Phát triển bằng Kotlin, tuân thủ nghiêm ngặt Clean Architecture và MVVM, áp dụng Room database để lưu trữ local.
-* **Backend & DevOps:** Hệ thống RESTful API được đóng gói bằng Docker. Thiết lập toàn bộ luồng CI/CD với GitHub Actions để tự động kiểm tra code, build APK và Docker Image.
+## 🎓 Education
 
-**2. Social Media Android App**
-* Phát triển ứng dụng mạng xã hội Android theo kiến trúc MVVM bằng Java, Firebase và SQLite.
-* Xây dựng hệ thống backend kiến trúc microservice bằng Golang Fiber kết hợp GORM, SQL, Firebase (NoSQL), Redis và Cloudinary.
-* *Source code:* [Backend Repo](https://github.com/hoanganhdangcode/Social-Backend.git) | [Mobile Repo](https://github.com/hoanganhdangcode/musicappandroidnaive).
- [SMS Sender Repo](https://github.com/hoanganhdangcode/smsotpsender).
+**Academy of Cryptography Techniques**
+*Kỹ sư Công nghệ Thông tin – Chuyên ngành Phần mềm Di động*
+2020 – 2025
+
+---
+
+## 💻 Technical Skills
+
+### Mobile Development
+
+* Android Native (**Java**, **Kotlin**)
+
+### Backend & API
+
+* **C#**, RESTful APIs
+* **Golang (Fiber)**
+
+### Architecture & Core
+
+* **MVVM**
+* **Clean Architecture**
+* Real-time video processing (**Camera2**, **OpenGL**, **FFmpeg**)
+* Networking (**RTMP**, **TCP**)
+
+### Database & DevOps
+
+* **SQL**
+* **Room**
+* **Firebase**
+* **Redis**
+* **Docker**
+* **CI/CD (GitHub Actions)**
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ Budget Checker
+
+Personal Expense Management System
+
+🔗 Repository:
+https://github.com/hoanganhdangcode/budgetchecker
+
+**Mobile App**
+
+* Developed with **Kotlin**
+* Implemented **Clean Architecture + MVVM**
+* Local storage using **Room Database**
+
+**Backend & DevOps**
+
+* RESTful API packaged with **Docker**
+* Full **CI/CD pipeline using GitHub Actions**
+* Automated build & test workflow
+
+---
+
+### 2️⃣ Social Media Android App
+
+Android social media application using **Java + MVVM**
+
+**Backend Architecture**
+
+* **Golang Fiber**
+* **GORM**
+* **SQL**
+* **Firebase (NoSQL)**
+* **Redis**
+* **Cloudinary**
+
+Source code:
+
+* Backend:
+  https://github.com/hoanganhdangcode/Social-Backend
+
+* Mobile App:
+  https://github.com/hoanganhdangcode/musicappandroidnaive
+
+* SMS OTP Sender:
+  https://github.com/hoanganhdangcode/smsotpsender
+
+---
