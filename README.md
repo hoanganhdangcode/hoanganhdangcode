@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Ngô Hoàng Anh (@hoanganhdangcode)
 
 Tôi là một **Junior Android Developer** với hơn 1 năm kinh nghiệm thực tế trong việc phát triển ứng dụng di động và tích hợp hệ thống backend. Trọng tâm phát triển hiện tại của tôi là nắm vững Clean Architecture, tự động hóa luồng làm việc (CI/CD) và tối ưu hóa hệ thống.
+
 📫 **Liên hệ:** ngohoanganh14062002@gmail.com | **Phone/Zalo/Viber/Tele:** 0396320369
 ---
 
